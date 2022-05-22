@@ -65,7 +65,7 @@ Such conversions allows us to introduce `awaitable / awaiter` pattern like the o
 - https://devblogs.microsoft.com/premier-developer/dissecting-the-async-methods-in-c/
 
 The above example is converted into the following code at runtime:
-```
+```py
 async def method() ->int:
     value: int
     original_ident: int
