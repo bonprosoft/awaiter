@@ -2,6 +2,8 @@
 
 Bring C# Awaitable/Awaiter concept to Python asyncio
 
+:warning: This library is not ready for use.
+
 ## Example
 
 We provide some utility methods to demonstrate some motivating examples of this library:
